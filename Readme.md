@@ -18,13 +18,6 @@ It provides features like:
 
 ---
 
-## 🔗 Important Links
-| Content | Link |
-|---------|------|
-| Data Models        | [Click here](https://app.eraser.io/workspace/HIXrNzYnjO5E4JMDL50Z) |
-
----
-
 ## 🚀 Features
 
 ### 👤 User Management
